@@ -1,4 +1,4 @@
-export default class TestTask2 {
+export default class TestTask1 {
     static messageSteps: string[] = ['start', 'connect', 'message', 'end'];
     
     public static getResult(inputWords: string[]): number {
